@@ -1,1 +1,0 @@
-# astralvista.github.io
