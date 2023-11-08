@@ -9,6 +9,9 @@ header {
     text-align: left;
     padding: 10px;
 }
+a {
+    color: #fff;
+}
 
 .sticky {
     position: fixed;
